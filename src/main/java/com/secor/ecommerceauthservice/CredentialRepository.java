@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.ecommerceauthservice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

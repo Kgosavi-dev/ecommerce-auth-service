@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.secor</groupId>
-    <artifactId>eatnow-auth-service</artifactId>
+    <artifactId>ecommerce-auth-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eatnow-auth-service</name>
     <description>eatnow-auth-service</description>

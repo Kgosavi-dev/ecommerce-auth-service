@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.ecommerceauthservice;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.ecommerceauthservice;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.slf4j.Logger;

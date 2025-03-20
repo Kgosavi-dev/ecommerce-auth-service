@@ -1,13 +1,13 @@
-package com.secor.eatnowauthservice;
+package com.secor.ecommerceauthservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EatnowAuthServiceApplication {
+public class EcommerceAuthServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EatnowAuthServiceApplication.class, args);
+        SpringApplication.run(EcommerceAuthServiceApplication.class, args);
     }
 
 }
