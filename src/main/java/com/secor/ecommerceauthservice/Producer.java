@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 public class Producer
 {
     private static final Logger logger = LoggerFactory.getLogger(Producer.class);
-    private static final String TOPIC = "auth-events";
+    private static final String TOPIC = "ecommerce-auth-events";
 
     @Autowired //DEPENDENCY INJECTION PROMISE FULFILLED AT RUNTIME
     private KafkaTemplate<String, String> kafkaTemplate ;
